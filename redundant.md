@@ -1,2 +1,0 @@
-# kingdom-alpha
-kingdom-alpha
